@@ -1,0 +1,131 @@
+#hero{
+	background-image: url("../img/fondo/bg-masthead.jpg");
+  	background-size: cover;
+ 	background-position: center;
+	padding: 10%;
+}
+
+.hero h1 {
+  font-size: 36px;
+}
+
+#about_us{
+	padding: 10% 0;
+	background-color: #f9fafc;
+}
+
+#about_us i{
+	font-size: 52px;
+	margin-bottom: 22px;
+	color: #336fef;
+}
+
+#about_us h3{
+	font-weight: 500;
+}
+
+#about_us p{
+	padding: 0 30px;
+}
+
+.textoinformativo{
+	padding-left: 4%;
+}
+
+#clientes p{
+	font-weight: 100;
+	padding-right: 100px;
+}
+
+#contacto p{
+	padding-right: 100px;
+	font-weight: 100;
+}
+
+#mc_embed_signup {
+    background-color: rgba(0, 0, 100, 0.1);
+    font-size: 14px;
+    width: 700px;
+    margin: 0 auto;
+    padding: 35px 30px;
+	text-align: center;
+
+}
+
+#mc_embed_signup h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+	color: white;
+	text-align: center;
+
+}
+
+
+
+#mc_embed_signup label {
+	text-align: center;
+    font-weight: 600;
+    margin-bottom: 5px;
+	color: white;
+	text-transform: capitalize;
+}
+
+#mc_embed_signup input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+    
+}
+
+
+
+#mc_embed_signup .button {
+	background-color: #3371fe;
+    color: white;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+	font-weight: 600;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+
+#mc_embed_signup .button:hover {
+    background-color: #FFFFFF;
+	color: #3371fe;
+}
+
+#mc_embed_signup .indicates-required {
+    font-size: 12px;
+    color: white;
+    margin-bottom: 12px;
+	text-align: center;
+}
+
+#call_to_action{
+	background-image: url("../img/fondo/bg-masthead.jpg");
+  	background-size: cover;
+ 	background-position: center;
+	padding: 10%;
+}
+
+        footer {
+            padding: 30px 20px;
+            background-color: #f9fafc;
+            color: #6D6D6D;
+        }
+        .ftext {
+            font-size: 12px;
+        }
+        .footericons {
+      		font-size: 16px;
+        }
+
+footer i{
+	padding: 4px;
+}
+     
